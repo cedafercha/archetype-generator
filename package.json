@@ -1,0 +1,9 @@
+{
+  "name": "archetype-generator",
+  "version": "0.0.1",
+  "description": "NodeJS application to generate basic projects using the template file as a repositories dictionary",
+  "author": "cedafercha",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
